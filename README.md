@@ -5,7 +5,7 @@
 
 ### :man_technologist: About me:
 
-I am a novice back developer<img src="https://media .giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. While I am a participant of the basic training school 21 from Sber. I studied C, Python, C++, C#.
+I am a novice back developer<img src="https://media .giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. While I am a participant of the basic training school 21 from Sber.
 
 <p align="center">
  <img width="600" src="https://github.com/FilimonovAlexey/FilimonovAlexey/blob/main/assets/github-snake.svg" alt="snake"/>
