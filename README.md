@@ -7,14 +7,6 @@
 
 I am a novice back developer<img src="https://media .giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. While I am a participant of the basic training school 21 from Sber.
 
-<p align="center">
- <img width="600" src="https://github.com/FilimonovAlexey/FilimonovAlexey/blob/main/assets/github-snake.svg" alt="snake"/>
-</p>
-
-- :mailbox: How to contact me:
-
-  [![Telegram Badge](https://img.shields.io/badge/-bulatruslanovich-green?style=flat&logo=Telegram&logoColor=white)](https://t.me/BulatRuslanovich) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:bulatruslanovich@gmail.com)
-
 ---
 
 ### 💻 Technologies:
