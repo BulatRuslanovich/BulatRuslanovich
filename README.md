@@ -3,13 +3,13 @@
 
 ---
 
-### :man_technologist: About me:
+### About me:
 
 I am a novice back developer<img src="https://media .giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. While I am a participant of the basic training school 21 from Sber.
 
 ---
 
-### 💻 Technologies:
+### Technologies:
  
 <div align="center">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
@@ -26,7 +26,7 @@ I am a novice back developer<img src="https://media .giphy.com/media/WUlplcMpOCE
 ---
 
 
-### ⚙️ GitHub statistics:
+### GitHub statistics:
 
 <table>
   <tr>
