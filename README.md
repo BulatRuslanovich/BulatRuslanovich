@@ -5,7 +5,7 @@
 
 ### About me:
 
-I am a novice back developer<img src="https://media .giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. While I am a participant of the basic training school 21 from Sber.
+I am a novice back developer<img src="https://media .giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 
 ---
 
