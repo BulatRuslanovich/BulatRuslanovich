@@ -1,29 +1,41 @@
+<h1 align="center">👋 Hello! I'm BulatRuslanovich </h1>
 
-# Hi, my name is Bulat!
+## About me
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/BulatRuslanovich)
 
----
-
-### About me:
-
-I am a novice back developer<img src="https://media .giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
-
----
-
-### Technologies:
- 
-
+I'm a backend developer from Russia.  
+I hate JavaScript💀  
 
 ---
 
-### GitHub statistics:
+## 📌Pinned
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BulatRuslanovich&repo=SmartCalc&theme=dracula&bg_color=00000000&)](https://github.com/BulatRuslanovich/SmartCalc)
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=BulatRuslanovich&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BulatRuslanovich&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
+
+---
+
+<details align="left">
+  <summary><h2><b>📚 My stack</b></h2></summary>
+  <p>
+    <h3>Langs</h3>
+    <img src="https://skillicons.dev/icons?i=java,cpp,postgres,mysql,dotnet,cs,py,html,css&perline=7" />
+    <h3>Frameworks / Tools</h3>
+    <img src="https://skillicons.dev/icons?i=spring,maven,qt,linux,docker,git&perline=7" />
+    <h3>Software</h3>
+    <img src="https://skillicons.dev/icons?i=idea,vscode,neovim,clion,ultimate&perline=7" />
+    <br>
+  </p>
+</details>
+
+---
+
+<details align="left">
+  <summary><h2><b>⭐GitHub stats</b></h2></summary>
+  <p>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BulatRuslanovich&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
+   <br>
+   <img src="https://github-readme-stats.vercel.app/api?username=BulatRuslanovich&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
+  </p>
+</details>
+
+
