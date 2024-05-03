@@ -2,6 +2,9 @@
 
 ## About me
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/BulatRuslanovich)
+![Profile views counter](https://komarev.com/ghpvc/?username=BulatRuslanovich-git&style=flat-square)
+
+---
 
 I'm a backend developer from Russia.  
 I hate JavaScript💀  
@@ -13,6 +16,7 @@ I hate JavaScript💀
 
 
 ---
+
 
 <details align="left">
   <summary><h2><b>📚 My stack</b></h2></summary>
