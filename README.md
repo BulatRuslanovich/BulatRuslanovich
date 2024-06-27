@@ -31,6 +31,10 @@ I hate JavaScript💀
   </p>
 </details>
 
+## LeetCode
+![LeetCode Stats](https://leetcode.card.workers.dev/bulatruslanovich?theme=dark&font=baloo&extension=null)
+
+
 ---
 
 <details align="left">
