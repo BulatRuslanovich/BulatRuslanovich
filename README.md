@@ -12,9 +12,11 @@ I hate JavaScript💀
 ---
 
 ## 📌Pinned
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BulatRuslanovich&repo=3d_viewer&theme=dracula&bg_color=00017798&)](https://github.com/BulatRuslanovich/3d_viewer) 
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BulatRuslanovich&repo=SmartCalc&theme=dracula&bg_color=00017161&)](https://github.com/BulatRuslanovich/SmartCalc)
----
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BulatRuslanovich&repo=neo_snake&theme=dracula&bg_color=00012021&)](https://github.com/BulatRuslanovich/neo_snake)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BulatRuslanovich&repo=neo_snake&theme=dracula&bg_color=00014674&)](https://github.com/BulatRuslanovich/neo_snake)
 
 ---
 
