@@ -25,27 +25,13 @@
 
 </div>
 
----
-
-### Featured Project
-
-<div align="left">
-
-[![Caimack](https://github-readme-stats.vercel.app/api/pin/?username=BulatRuslanovich&repo=music-streaming&bg_color=00000000&title_color=6e88b8&text_color=8b949e&icon_color=96aacd&hide_border=true)](https://github.com/BulatRuslanovich/music-streaming)
-
-</div>
 
 ---
 
 ### GitHub Stats
 
 <div align="center">
-
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BulatRuslanovich&layout=compact&bg_color=00000000&title_color=6e88b8&text_color=8b949e&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=BulatRuslanovich&background=00000000&hide_border=true&ring=6E88B8&fire=96AACD&currStreakLabel=6E88B8&sideLabels=8B949E&dates=8B949E&currStreakNum=8B949E&sideNums=8B949E" />
-
+  
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BulatRuslanovich&theme=transparent" />
 
 </div>
